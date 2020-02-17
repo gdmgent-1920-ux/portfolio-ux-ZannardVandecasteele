@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name: Vandecasteele Zannard
+## Name:
 
-## Group: 1AVDa
+## Group:
 
 ## Getting Started
 
