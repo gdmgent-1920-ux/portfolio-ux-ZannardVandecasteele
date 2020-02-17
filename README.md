@@ -2,7 +2,7 @@
 
 ## Name: Vandecasteele Zannard
 
-## Group: 1AVDa1
+## Group: 1AVDa
 
 ## Getting Started
 
