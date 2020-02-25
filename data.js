@@ -23,7 +23,7 @@ const data = {
     "assignment1": {
         "buttons": [
             {
-                "text": "Inspiratieboek",
+                "text": "Inspiratieboekj",
                 "title": "Mijn PDF met inspiratie (login, functions, result)",
                 "href": "./assignments/assignment1/documents/a1-inspiration.pdf",
                 "target": "_blank"
