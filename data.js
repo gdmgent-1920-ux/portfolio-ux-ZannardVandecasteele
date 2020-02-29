@@ -23,7 +23,7 @@ const data = {
     "assignment1": {
         "buttons": [
             {
-                "text": "Inspiratieboekj",
+                "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie (login, functions, result)",
                 "href": "./assignments/assignment1/documents/a1-inspiration.pdf",
                 "target": "_blank"
@@ -36,7 +36,7 @@ const data = {
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/e4c35170-a2f7-4c10-753b-ba7c449703ec-92f2/grid",
+                "href": "https://xd.adobe.com/view/aa0ffe77-8ba1-4d2e-4ec9-fe144e988590-dc3e/",
                 "target": "_blank"
             }
         ]
