@@ -95,7 +95,7 @@ const data = {
             "title": "Mijn website voor opdracht 3",
             "href": "./assignments/assignment3/website/index.html",
             "target": "_blank"
-        }
+        },
     ]
  }
 }
